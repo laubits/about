@@ -2,11 +2,9 @@ We suggest watching [The Power and Potential of DAO/Cs](https://www.youtube.com/
 
 # The Pura Vida Decentralized Autonomous Community
 
-A DAC for people who share the Pura Vida values.
+The Pura Vida DAC is software development collective that operates entirely on smart contracts. Everything from product planning to development and marketing is tracked and secured on the blockchain, contributors get rewarded automatically upon task completion and they can also make proposals requesting the funds required for it.
 
-> If you have been to Costa Rica, a term you should be familiar with is “Pura Vida.” Simply translated, it means “simple life” or “pure life”, but in Costa Rica, it is more than just a saying, its a lifestyle. The "Pura Vida" symbolizes for Costa Ricans the simplicity of good living, well-being, joy, happiness and optimism, associated with the art of appreciating beauty in the simple and natural.
-
-The Pura Vida DAC is software development collective that operates entirely on smart contracts. Everything from product planning to development and marketing is tracked and secured on the blockchain, contributors get rewarded automatically upon task completion. 
+We recommend seeing The Power and Potential of DAO / Cs and DAOs: The Way Towards Enlightened Global Governance as an introduction if you are not familiar with this new type of organization.
 
 ## Purpose
 
@@ -48,6 +46,10 @@ The hummingbird symbolizes many different concepts, because of its speed, the hu
 ## Constitution
 
 Coming soon.
+
+## Philosophy
+
+> If you have been to Costa Rica, a term you should be familiar with is “Pura Vida.” Simply translated, it means “simple life” or “pure life”, but in Costa Rica, it is more than just a saying, its a lifestyle. The "Pura Vida" symbolizes for Costa Ricans the simplicity of good living, well-being, joy, happiness and optimism, associated with the art of appreciating beauty in the simple and natural.
 
 ## Telegram Channels
 
