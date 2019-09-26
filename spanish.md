@@ -10,7 +10,7 @@ Remendamos ver [The Power and Potential of DAO/Cs](https://www.youtube.com/watch
 
 ## Propósito
 
-El Pura Vida DAC se centra en la creación de software de código abierto y dApps que empoderan a las personas y ayudan a crear abundancia en la tierra.
+El Pura Vida DAC se centra en la creación de software de código abierto y dApps que empoderan a las personas y crean nuevas oportunidades.
 
 ## Miembros
 
