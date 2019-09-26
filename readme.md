@@ -10,7 +10,7 @@ The Pura Vida DAC is software development collective that operates entirely on s
 
 ## Purpose
 
-The Pura Vida DAC focuses on building open source software and dApps that empower people and help create abundance on earth.
+The Pura Vida DAC focuses on building open source software and dApps that empower people and create new opportunities.
 
 ## Members
 
