@@ -4,7 +4,7 @@ We suggest watching [The Power and Potential of DAO/Cs](https://www.youtube.com/
 
 The Pura Vida DAC is software development collective that operates entirely on smart contracts. Everything from product planning to development and marketing is tracked and secured on the blockchain, contributors get rewarded automatically upon task completion and they can also make proposals requesting the funds required for it.
 
-We recommend seeing The Power and Potential of DAO / Cs and DAOs: The Way Towards Enlightened Global Governance as an introduction if you are not familiar with this new type of organization.
+We recommend seeing [The Power and Potential of DAO/Cs](https://www.youtube.com/watch?v=Wf5gfjMfiHA) y [DAOs: The Way Towards Enlightened Global Governance](https://www.youtube.com/watch?v=G1K4M6iCSyE) as an introduction if you are not familiar with this new type of organization.
 
 ## Purpose
 
